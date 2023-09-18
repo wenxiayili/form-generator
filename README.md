@@ -1,4 +1,5 @@
-## fork自[form-generator](https://github.com/JakHuang/form-generator/)，用于研究技术
+## 声明
+fork自[form-generator](https://github.com/JakHuang/form-generator/)，用于研究技术
 
 ![image](https://ae01.alicdn.com/kf/U51bfb661aba945b48a4c71774421d414C.gif)
 ## 简介
